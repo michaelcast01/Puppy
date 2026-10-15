@@ -1,0 +1,371 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-15T03:19:31.761Z",
+  "title": "Design System: Puppy",
+  "extensions": {
+    "colorMeta": {
+      "primary": {
+        "role": "primary",
+        "displayName": "Turquesa Puppy",
+        "canonical": "#66dde3",
+        "tonalRamp": [
+          "oklch(15.0% 0.1070 199.80)",
+          "oklch(26.4% 0.1070 199.80)",
+          "oklch(37.9% 0.1070 199.80)",
+          "oklch(49.3% 0.1070 199.80)",
+          "oklch(60.7% 0.1070 199.80)",
+          "oklch(72.1% 0.1070 199.80)",
+          "oklch(83.6% 0.1070 199.80)",
+          "oklch(95.0% 0.1070 199.80)"
+        ]
+      },
+      "primary-dark": {
+        "role": "primary",
+        "displayName": "Turquesa profundo",
+        "canonical": "#087f8c",
+        "tonalRamp": [
+          "oklch(15.0% 0.0922 207.55)",
+          "oklch(26.4% 0.0922 207.55)",
+          "oklch(37.9% 0.0922 207.55)",
+          "oklch(49.3% 0.0922 207.55)",
+          "oklch(60.7% 0.0922 207.55)",
+          "oklch(72.1% 0.0922 207.55)",
+          "oklch(83.6% 0.0922 207.55)",
+          "oklch(95.0% 0.0922 207.55)"
+        ]
+      },
+      "accent": {
+        "role": "secondary",
+        "displayName": "Coral Puppy",
+        "canonical": "#e83b35",
+        "tonalRamp": [
+          "oklch(15.0% 0.2103 27.44)",
+          "oklch(26.4% 0.2103 27.44)",
+          "oklch(37.9% 0.2103 27.44)",
+          "oklch(49.3% 0.2103 27.44)",
+          "oklch(60.7% 0.2103 27.44)",
+          "oklch(72.1% 0.2103 27.44)",
+          "oklch(83.6% 0.2103 27.44)",
+          "oklch(95.0% 0.2103 27.44)"
+        ]
+      },
+      "accent-strong": {
+        "role": "secondary",
+        "displayName": "Coral de acción",
+        "canonical": "#ba2b27",
+        "tonalRamp": [
+          "oklch(15.0% 0.1802 27.35)",
+          "oklch(26.4% 0.1802 27.35)",
+          "oklch(37.9% 0.1802 27.35)",
+          "oklch(49.3% 0.1802 27.35)",
+          "oklch(60.7% 0.1802 27.35)",
+          "oklch(72.1% 0.1802 27.35)",
+          "oklch(83.6% 0.1802 27.35)",
+          "oklch(95.0% 0.1802 27.35)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Marrón Puppy",
+        "canonical": "#3c2f33",
+        "tonalRamp": [
+          "oklch(15.0% 0.0200 357.91)",
+          "oklch(26.4% 0.0200 357.91)",
+          "oklch(37.9% 0.0200 357.91)",
+          "oklch(49.3% 0.0200 357.91)",
+          "oklch(60.7% 0.0200 357.91)",
+          "oklch(72.1% 0.0200 357.91)",
+          "oklch(83.6% 0.0200 357.91)",
+          "oklch(95.0% 0.0200 357.91)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Gris cálido",
+        "canonical": "#72696d",
+        "tonalRamp": [
+          "oklch(15.0% 0.0128 348.77)",
+          "oklch(26.4% 0.0128 348.77)",
+          "oklch(37.9% 0.0128 348.77)",
+          "oklch(49.3% 0.0128 348.77)",
+          "oklch(60.7% 0.0128 348.77)",
+          "oklch(72.1% 0.0128 348.77)",
+          "oklch(83.6% 0.0128 348.77)",
+          "oklch(95.0% 0.0128 348.77)"
+        ]
+      },
+      "canvas": {
+        "role": "neutral",
+        "displayName": "Lienzo claro",
+        "canonical": "#f7f9fa",
+        "tonalRamp": [
+          "oklch(15.0% 0.0025 228.78)",
+          "oklch(26.4% 0.0025 228.78)",
+          "oklch(37.9% 0.0025 228.78)",
+          "oklch(49.3% 0.0025 228.78)",
+          "oklch(60.7% 0.0025 228.78)",
+          "oklch(72.1% 0.0025 228.78)",
+          "oklch(83.6% 0.0025 228.78)",
+          "oklch(95.0% 0.0025 228.78)"
+        ]
+      },
+      "surface": {
+        "role": "neutral",
+        "displayName": "Blanco",
+        "canonical": "#ffffff",
+        "tonalRamp": [
+          "oklch(15.0% 0.0000 0.00)",
+          "oklch(26.4% 0.0000 0.00)",
+          "oklch(37.9% 0.0000 0.00)",
+          "oklch(49.3% 0.0000 0.00)",
+          "oklch(60.7% 0.0000 0.00)",
+          "oklch(72.1% 0.0000 0.00)",
+          "oklch(83.6% 0.0000 0.00)",
+          "oklch(95.0% 0.0000 0.00)"
+        ]
+      },
+      "primary-soft": {
+        "role": "primary",
+        "displayName": "Turquesa suave",
+        "canonical": "#dff7f8",
+        "tonalRamp": [
+          "oklch(15.0% 0.0251 199.79)",
+          "oklch(26.4% 0.0251 199.79)",
+          "oklch(37.9% 0.0251 199.79)",
+          "oklch(49.3% 0.0251 199.79)",
+          "oklch(60.7% 0.0251 199.79)",
+          "oklch(72.1% 0.0251 199.79)",
+          "oklch(83.6% 0.0251 199.79)",
+          "oklch(95.0% 0.0251 199.79)"
+        ]
+      },
+      "primary-subtle": {
+        "role": "primary",
+        "displayName": "Turquesa tenue",
+        "canonical": "#f1fafa",
+        "tonalRamp": [
+          "oklch(15.0% 0.0095 197.00)",
+          "oklch(26.4% 0.0095 197.00)",
+          "oklch(37.9% 0.0095 197.00)",
+          "oklch(49.3% 0.0095 197.00)",
+          "oklch(60.7% 0.0095 197.00)",
+          "oklch(72.1% 0.0095 197.00)",
+          "oklch(83.6% 0.0095 197.00)",
+          "oklch(95.0% 0.0095 197.00)"
+        ]
+      },
+      "accent-soft": {
+        "role": "secondary",
+        "displayName": "Coral suave",
+        "canonical": "#fcedea",
+        "tonalRamp": [
+          "oklch(15.0% 0.0168 31.08)",
+          "oklch(26.4% 0.0168 31.08)",
+          "oklch(37.9% 0.0168 31.08)",
+          "oklch(49.3% 0.0168 31.08)",
+          "oklch(60.7% 0.0168 31.08)",
+          "oklch(72.1% 0.0168 31.08)",
+          "oklch(83.6% 0.0168 31.08)",
+          "oklch(95.0% 0.0168 31.08)"
+        ]
+      },
+      "outline": {
+        "role": "neutral",
+        "displayName": "Contorno gris",
+        "canonical": "#d8d9db",
+        "tonalRamp": [
+          "oklch(15.0% 0.0029 264.54)",
+          "oklch(26.4% 0.0029 264.54)",
+          "oklch(37.9% 0.0029 264.54)",
+          "oklch(49.3% 0.0029 264.54)",
+          "oklch(60.7% 0.0029 264.54)",
+          "oklch(72.1% 0.0029 264.54)",
+          "oklch(83.6% 0.0029 264.54)",
+          "oklch(95.0% 0.0029 264.54)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Titular de bienvenida."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Encabezado de página."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Encabezados de sección."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Texto principal y descripciones."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Etiquetas de campos y metadatos."
+      }
+    },
+    "shadows": [
+      {
+        "name": "snackbar",
+        "value": "0 6px 24px #3c2f3320",
+        "purpose": "Mensaje transitorio superpuesto."
+      },
+      {
+        "name": "mobile-menu",
+        "value": "0 8px 32px #3c2f3320",
+        "purpose": "Menú móvil."
+      },
+      {
+        "name": "bottom-navigation",
+        "value": "0 -2px 16px #3c2f3306",
+        "purpose": "Separación suave de la navegación fija."
+      }
+    ],
+    "motion": [
+      {
+        "name": "control-transition",
+        "value": "0.18s ease",
+        "purpose": "Color de fondo, color y sombra según el control; sin transición con prefers-reduced-motion."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "compact-desktop",
+        "value": "1200px"
+      },
+      {
+        "name": "stacked-content",
+        "value": "1000px"
+      },
+      {
+        "name": "mobile-navigation",
+        "value": "760px"
+      },
+      {
+        "name": "narrow-mobile",
+        "value": "370px"
+      },
+      {
+        "name": "wide-canvas",
+        "value": "1836px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Botón oscuro",
+      "kind": "button",
+      "refersTo": "button-dark",
+      "description": "Abrir o guardar el perfil.",
+      "html": "<button class=\"ds-button-dark\">Conoce a Milo</button>",
+      "css": ".ds-button-dark{min-height:48px;padding:12px 20px;border:0;display:inline-flex;align-items:center;justify-content:center;gap:9px;border-radius:26px;font-family:var(--font-sans);font-size:14px;line-height:1.4;font-weight:600;cursor:pointer;transition:background-color .18s,box-shadow .18s;text-align:center;background:var(--color-ink);color:var(--color-surface);}.ds-button-dark:hover{background:#554349;}.ds-button-dark:disabled{cursor:wait;opacity:.55;}.ds-button-dark:focus-visible{outline:3px solid var(--color-primary-dark);outline-offset:4px;}@media(prefers-reduced-motion:reduce){.ds-button-dark{transition:none;}}"
+    },
+    {
+      "name": "Botón coral",
+      "kind": "button",
+      "refersTo": "button-accent",
+      "description": "Crear o guardar un recordatorio.",
+      "html": "<button class=\"ds-button-accent\">Nuevo recordatorio</button>",
+      "css": ".ds-button-accent{min-height:48px;padding:12px 20px;border:0;display:inline-flex;align-items:center;justify-content:center;gap:9px;border-radius:26px;font-family:var(--font-sans);font-size:14px;line-height:1.4;font-weight:600;cursor:pointer;transition:background-color .18s,box-shadow .18s;text-align:center;background:var(--color-accent-strong);color:var(--color-surface);}.ds-button-accent:hover{background:#98231f;}.ds-button-accent:disabled{cursor:wait;opacity:.55;}.ds-button-accent:focus-visible{outline:3px solid var(--color-primary-dark);outline-offset:4px;}@media(prefers-reduced-motion:reduce){.ds-button-accent{transition:none;}}"
+    },
+    {
+      "name": "Botón de texto",
+      "kind": "button",
+      "refersTo": "button-text",
+      "description": "Acción secundaria.",
+      "html": "<button class=\"ds-button-text\">Cancelar</button>",
+      "css": ".ds-button-text{min-height:48px;padding:12px 20px;border:0;display:inline-flex;align-items:center;justify-content:center;gap:9px;border-radius:26px;font-family:var(--font-sans);font-size:14px;line-height:1.4;font-weight:600;cursor:pointer;transition:background-color .18s,box-shadow .18s;text-align:center;background:transparent;color:var(--color-primary-dark);}.ds-button-text:hover{background:var(--color-primary-soft);}.ds-button-text:disabled{cursor:wait;opacity:.55;}.ds-button-text:focus-visible{outline:3px solid var(--color-primary-dark);outline-offset:4px;}@media(prefers-reduced-motion:reduce){.ds-button-text{transition:none;}}"
+    },
+    {
+      "name": "Botón delineado",
+      "kind": "button",
+      "refersTo": "button-outlined",
+      "description": "Acción secundaria.",
+      "html": "<button class=\"ds-button-outlined\">Diseño de Pen</button>",
+      "css": ".ds-button-outlined{min-height:48px;padding:12px 20px;border:0;display:inline-flex;align-items:center;justify-content:center;gap:9px;border-radius:26px;font-family:var(--font-sans);font-size:14px;line-height:1.4;font-weight:600;cursor:pointer;transition:background-color .18s,box-shadow .18s;text-align:center;background:transparent;color:var(--color-ink);border:1px solid var(--color-outline);}.ds-button-outlined:hover{background:var(--color-primary-subtle);}.ds-button-outlined:disabled{cursor:wait;opacity:.55;}.ds-button-outlined:focus-visible{outline:3px solid var(--color-primary-dark);outline-offset:4px;}@media(prefers-reduced-motion:reduce){.ds-button-outlined{transition:none;}}"
+    },
+    {
+      "name": "Campo de texto",
+      "kind": "input",
+      "refersTo": "field",
+      "description": "Etiqueta visible y ayuda secundaria para un recordatorio.",
+      "html": "<label class=\"ds-field\">¿Qué quieres recordar?<input placeholder=\"Por ejemplo: comprar su alimento\" /></label>",
+      "css": ".ds-field{display:grid;gap:8px;font-family:var(--font-sans);font-size:14px;font-weight:500;color:var(--color-ink);}.ds-field input{width:100%;min-width:0;min-height:48px;border:1px solid #b2b5b8;border-radius:8px;background:var(--color-surface);color:var(--color-ink);padding:11px 12px;font-family:var(--font-sans);font-size:14px;font-weight:400;}.ds-field input::placeholder{color:var(--color-muted);}.ds-field input:focus-visible{outline:3px solid var(--color-primary-dark);outline-offset:4px;}"
+    },
+    {
+      "name": "Navegación",
+      "kind": "nav",
+      "refersTo": "nav-selected",
+      "description": "Destino actual señalado por tono y peso.",
+      "html": "<nav class=\"ds-navigation\" aria-label=\"Principal\"><a href=\"#mi-dia\" aria-current=\"page\">Mi día</a><a href=\"#agenda\">Agenda</a></nav>",
+      "css": ".ds-navigation{display:grid;gap:10px;font-family:var(--font-sans);}.ds-navigation a{min-height:50px;padding:12px 14px;display:flex;align-items:center;gap:12px;color:var(--color-muted);border-radius:12px;font-size:14px;text-decoration:none;transition:background-color .18s,color .18s;}.ds-navigation a:hover{background:var(--color-primary-subtle);color:var(--color-primary-dark);}.ds-navigation a[aria-current]{background:var(--color-primary-soft);color:var(--color-primary-dark);font-weight:600;}.ds-navigation a:focus-visible{outline:3px solid var(--color-primary-dark);outline-offset:4px;}@media(prefers-reduced-motion:reduce){.ds-navigation a{transition:none;}}"
+    },
+    {
+      "name": "Filtros de agenda",
+      "kind": "chip",
+      "refersTo": "filter-active",
+      "description": "Grupo de filtros con selección explícita.",
+      "html": "<div class=\"ds-filters\" aria-label=\"Filtrar recordatorios\"><button aria-pressed=\"true\">Pendientes</button><button aria-pressed=\"false\">Todos</button></div>",
+      "css": ".ds-filters{display:inline-flex;gap:4px;flex-wrap:wrap;padding:4px;border:1px solid var(--color-outline);border-radius:30px;}.ds-filters button{border:0;background:transparent;border-radius:24px;padding:12px 20px;min-height:44px;font-family:var(--font-sans);font-size:14px;cursor:pointer;}.ds-filters button[aria-pressed=\"true\"]{background:var(--color-primary-soft);color:var(--color-primary-dark);font-weight:600;}.ds-filters button:hover{background:var(--color-primary-subtle);}.ds-filters button:focus-visible{outline:3px solid var(--color-primary-dark);outline-offset:4px;}"
+    },
+    {
+      "name": "Recordatorio",
+      "kind": "card",
+      "refersTo": "reminder-card",
+      "description": "Superficie coral con ficha de fecha blanca.",
+      "html": "<article class=\"ds-reminder\"><div class=\"ds-date\"><strong>15</strong><span>oct</span></div><h3>Comprar su alimento</h3><p>09:00 · Un cuidado por recordar</p></article>",
+      "css": ".ds-reminder{padding:24px;background:var(--color-accent-soft);border-radius:16px;overflow-wrap:anywhere;font-family:var(--font-sans);color:var(--color-ink);}.ds-date{width:52px;min-height:58px;padding:5px;border-radius:10px;background:var(--color-surface);display:flex;flex-direction:column;align-items:center;justify-content:center;}.ds-date strong{font-size:23px;line-height:1.2;}.ds-date span{font-size:10px;text-transform:uppercase;}.ds-reminder h3{margin:18px 0 0;font-size:18px;font-weight:600;line-height:1.4;}.ds-reminder p{color:var(--color-muted);font-size:14px;margin:12px 0 0;line-height:1.5;}"
+    },
+    {
+      "name": "Rutina completada",
+      "kind": "custom",
+      "description": "Fila táctil que combina texto, casilla y confirmación.",
+      "html": "<button class=\"ds-routine\" aria-pressed=\"true\"><span class=\"ds-routine-text\">Su paseo de cada día<small>Un ratito para explorar juntos</small></span><span class=\"ds-check\" aria-hidden=\"true\"><svg width=\"17\" height=\"17\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"m20 6-11 11-5-5\"/></svg></span></button>",
+      "css": ".ds-routine{display:flex;align-items:center;width:100%;min-height:90px;gap:16px;background:var(--color-surface);color:var(--color-ink);border:0;text-align:left;padding:12px 20px;border-radius:10px;font-family:var(--font-sans);font-size:16px;cursor:pointer;}.ds-routine:hover{background:var(--color-primary-subtle);}.ds-routine-text{display:flex;flex-direction:column;gap:6px;flex:1;line-height:1.4;font-weight:500;}.ds-routine-text small{font-size:13px;color:var(--color-muted);font-weight:400;}.ds-check{width:27px;height:27px;border:1.5px solid var(--color-primary-dark);border-radius:50%;display:grid;place-items:center;background:var(--color-primary-dark);color:var(--color-surface);transition:background-color .18s;}.ds-routine:focus-visible{outline:3px solid var(--color-primary-dark);outline-offset:4px;}@media(prefers-reduced-motion:reduce){.ds-routine{transition:none;}}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Pequeños cuidados. Grandes vínculos.",
+    "overview": "Puppy convierte el cuidado cotidiano en una experiencia cercana, tranquila y fácil de leer. Su identidad Material parte del logotipo recibido: turquesa luminoso, marrón cálido y coral funcional. Roboto, superficies tonales e iconos de trazo mantienen una voz amable y clara.\n\nLa interfaz reserva el color más intenso para la identidad y las acciones. Las rutinas y los recordatorios viven en contenedores espaciosos, con estado expresado mediante texto y forma además del color. La densidad permite recorrer el día sin perder los detalles necesarios.",
+    "keyCharacteristics": [
+      "Identidad original visible y atribuida.",
+      "Superficies Material tonales y elevación contenida.",
+      "Roboto compacta, jerarquía clara y lenguaje cercano.",
+      "Controles amplios, foco visible y adaptación a una columna."
+    ],
+    "rules": [
+      {
+        "name": "The Readable Coral Rule",
+        "body": "Conservar el coral de marca en la identidad; usar coral de acción cuando el botón lleve texto blanco.",
+        "section": "colors"
+      },
+      {
+        "name": "The Tonal Surface Rule",
+        "body": "Dar jerarquía a las tarjetas con su tono y espaciado; reservar las sombras para las capas superpuestas.",
+        "section": "elevation"
+      },
+      {
+        "name": "The Visible State Rule",
+        "body": "Acompañar cada selección y confirmación con forma, texto o marca; el color nunca es la única señal.",
+        "section": "components"
+      }
+    ],
+    "dos": [
+      "**Do** conservar los tokens de identidad y la familia Roboto.",
+      "**Do** usar superficies tonales, espacio y peso tipográfico para ordenar el contenido.",
+      "**Do** mantener foco visible, etiquetas claras y controles táctiles amplios.",
+      "**Do** conservar el PNG original y mostrarlo completo con atribución en Identidad y README.",
+      "**Do** mantener texto, forma y color coordinados para comunicar estados."
+    ],
+    "donts": [
+      "**Don't** sustituir el original por una mascota redibujada o alterar sus píxeles.",
+      "**Don't** usar coral de marca como sustituto del coral de acción en botones con texto blanco.",
+      "**Don't** añadir sombra a cada tarjeta o animación decorativa.",
+      "**Don't** convertir texto, controles o navegación en imágenes."
+    ]
+  }
+}
+
